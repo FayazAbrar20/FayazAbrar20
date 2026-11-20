@@ -74,13 +74,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FayazAbrar20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayazAbrar20&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FayazAbrar20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayazAbrar20&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=jupyter%20notebook"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FayazAbrar20&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
 </p>
